@@ -25,15 +25,15 @@ I build software at the intersection of architecture, data science, AI agents, a
 </p>
 
 
-## Open source work
+## Open-source work
 
 ### AlkimimOS
 
 <p>
   <a href="https://github.com/CodeVaultCommunity/AlkimimOS">
-    <img align="left" src="./assets/alkimimos-logo.png" alt="AlkimimOS logo" width="96" hspace="16">
+    <img align="left" src="./assets/alkimimos-logo.png" alt="AlkimimOS logo" width="128" hspace="16" vspace = "16">
   </a>
-    An open-source ecosystem for organizing and extending AI coding agents. It combines reusable skills, governance rules, scoped project context, configurable workspaces, and modular capabilities into a coherent operational model.
+    An open-source operating ecosystem for building and managing AI-agent workflows. AlkimimOS was created for daily use inside <a href = "www.alkimim.com">Alkimim</a>, where it organizes reusable skills, governance rules, scoped context, configurable workspaces, and modular capabilities. It is now open-source to help other entrepreneurs and teams structure their own agentic workflows with greater consistency, control, and reuse.
   <br><br>
   <a href="https://github.com/CodeVaultCommunity/AlkimimOS">
     <img src="https://img.shields.io/badge/View_repository-181717?style=flat-square&logo=github&logoColor=white" alt="View AlkimimOS repository">
@@ -48,7 +48,7 @@ I build software at the intersection of architecture, data science, AI agents, a
 
 <p>
   <a href="https://github.com/CodeVaultCommunity/PyAtomic">
-    <img align="left" src="./assets/pyatomic-logo.png" alt="PyAtomic logo" width="96" hspace = "16">
+    <img align="left" src="./assets/pyatomic-logo.png" alt="PyAtomic logo" width="128" hspace = "16"  vspace = "16">
   </a>
     <b>Architecture Toolkit for Organized, Modular, and Isolated Code.</b> A Python library for structuring codebases around explicit responsibilities, modular boundaries, and reusable architectural building blocks.
   <br><br>
@@ -60,7 +60,7 @@ I build software at the intersection of architecture, data science, AI agents, a
   </a>
 </p>
 
-<br clear="left">
+<br clear = "left">
 
 ## What I work on
 
@@ -80,4 +80,4 @@ I am open to software development contracts, project-based work, technical consu
 
 Explore the projects above or learn more about my work at [douglas.alkimim.com](https://douglas.alkimim.com) and [Alkimim](https://www.alkimim.com). For professional inquiries, contact me by [email](mailto:douglas@alkimim.com) or through [LinkedIn](https://www.linkedin.com/in/douglas-alkimim/).
 
-<!-- PROFILE_LAST_REVIEWED: 2026-08-02 -->
+<!-- PROFILE_LAST_REVIEWED: 2026-08-03 -->
