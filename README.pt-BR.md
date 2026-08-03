@@ -1,10 +1,28 @@
 # Douglas Alkimim
 
-**Líder técnico que desenvolve ferramentas open source para programadores e software prático para pequenas e médias empresas brasileiras.**
+**Líder técnico e Cientista de Dados que desenvolve ferramentas open source para programadores e software prático para pequenas e médias empresas brasileiras.**
 
 Desenvolvo software na interseção entre arquitetura, ciência de dados, agentes de IA e matemática aplicada. Meu foco é transformar complexidade técnica e operacional em sistemas modulares, manuteníveis e úteis.
 
-[Website](https://douglas.alkimim.com) · [LinkedIn](https://www.linkedin.com/in/douglas-alkimim/) · [E-mail](mailto:douglas@alkimim.com) · [English](README.md)
+
+<p align="center">
+  <a href="https://douglas.alkimim.com"><img alt="Website" src="https://img.shields.io/badge/Site-181717?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  &nbsp;
+  &nbsp;
+  <a href="https://www.linkedin.com/in/douglas-alkimim/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  &nbsp;
+  &nbsp;
+  <a href="mailto:douglas@alkimim.com"><img alt="E-mail" src="https://img.shields.io/badge/Email-24292F?style=for-the-badge"></a>
+  &nbsp;
+  &nbsp;
+  <a href="http://lattes.cnpq.br/2812372910755440"><img alt="Currículo Lattes" src="https://img.shields.io/badge/Lattes-005CA9?style=for-the-badge"></a>
+  &nbsp;
+  &nbsp;
+  <a href="https://orcid.org/0009-0002-1431-2745"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
+  &nbsp;
+  &nbsp;
+  <a href="README.md"><img alt="Read in English" src="https://img.shields.io/badge/English-24292F?style=for-the-badge&logo=googletranslate&logoColor=white"></a>
+</p>
 
 ## Projetos open source
 

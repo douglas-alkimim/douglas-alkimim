@@ -1,10 +1,29 @@
 # Douglas Alkimim
 
-**Technical Lead building open-source developer tools and practical software for small and medium-sized businesses in Brazil.**
+**Technical Lead and Data Scientist building open-source developer tools and practical software for small and medium-sized businesses in Brazil.**
 
 I build software at the intersection of architecture, data science, AI agents, and applied mathematics. My focus is turning technical and operational complexity into modular, maintainable, and useful systems.
 
-[Website](https://douglas.alkimim.com) · [LinkedIn](https://www.linkedin.com/in/douglas-alkimim/) · [Email](mailto:douglas@alkimim.com) · [Português](README.pt-BR.md)
+
+<p align="center">
+  <a href="https://douglas.alkimim.com"><img alt="Website" src="https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  &nbsp;
+  &nbsp;
+  <a href="https://www.linkedin.com/in/douglas-alkimim/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  &nbsp;
+  &nbsp;
+  <a href="mailto:douglas@alkimim.com"><img alt="Email" src="https://img.shields.io/badge/Email-24292F?style=for-the-badge"></a>
+  &nbsp;
+  &nbsp;
+  <a href="http://lattes.cnpq.br/2812372910755440"><img alt="Lattes" src="https://img.shields.io/badge/Lattes-005CA9?style=for-the-badge"></a>
+  &nbsp;
+  &nbsp;
+  <a href="https://orcid.org/0009-0002-1431-2745"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
+  &nbsp;
+  &nbsp;
+  <a href="README.pt-BR.md"><img alt="Read in Portuguese" src="https://img.shields.io/badge/Portugu%C3%AAs-24292F?style=for-the-badge&logo=googletranslate&logoColor=white"></a>
+</p>
+
 
 ## Open source work
 
