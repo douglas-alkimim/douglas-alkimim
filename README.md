@@ -27,68 +27,40 @@ I build software at the intersection of architecture, data science, AI agents, a
 
 ## Open source work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <table>
-        <tr>
-          <td width="120" align="center" valign="top">
-            <a href="https://github.com/CodeVaultCommunity/AlkimimOS">
-              <img
-                src="./assets/alkimimos-logo.png"
-                alt="AlkimimOS logo"
-                width="96"
-              >
-            </a>
-          </td>
-          <td valign="middle">
-            <strong>
-                AlkimimOS
-            </strong>
-            <br><br>
-            An open-source ecosystem for organizing and extending AI coding agents. It combines reusable skills, governance rules, scoped project context, configurable workspaces, and modular capabilities into a coherent operational model.
-            <br><br>
-            <a href="https://github.com/CodeVaultCommunity/AlkimimOS">
-              <img
-                src="https://img.shields.io/badge/View_repository-181717?style=flat-square&logo=github&logoColor=white"
-                alt="View AlkimimOS repository"
-              >
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td width="50%" valign="top">
-      <table>
-        <tr>
-          <td width="120" align="center" valign="top">
-            <a href="https://github.com/CodeVaultCommunity/PyAtomic">
-              <img
-                src="./assets/pyatomic-logo.png"
-                alt="PyAtomic logo"
-                width="96"
-              >
-            </a>
-          </td>
-          <td valign="middle">
-            <strong>
-                PyAtomic
-            </strong>
-            <br><br>
-            <b>Architecture Toolkit for Organized, Modular, and Isolated Code.</b> A Python library for structuring codebases around explicit responsibilities, modular boundaries, and reusable architectural building blocks.
-            <br><br>
-            <a href="https://github.com/CodeVaultCommunity/PyAtomic">
-              <img
-                src="https://img.shields.io/badge/View_repository-181717?style=flat-square&logo=github&logoColor=white"
-                alt="View PyAtomic repository"
-              >
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+### AlkimimOS
+
+<p>
+  <a href="https://github.com/CodeVaultCommunity/AlkimimOS">
+    <img align="left" src="./assets/alkimimos-logo.png" alt="AlkimimOS logo" width="96" hspace="16">
+  </a>
+    An open-source ecosystem for organizing and extending AI coding agents. It combines reusable skills, governance rules, scoped project context, configurable workspaces, and modular capabilities into a coherent operational model.
+  <br><br>
+  <a href="https://github.com/CodeVaultCommunity/AlkimimOS">
+    <img src="https://img.shields.io/badge/View_repository-181717?style=flat-square&logo=github&logoColor=white" alt="View AlkimimOS repository">
+  </a>
+</p>
+
+<br clear = "left">
+
+---
+
+### PyAtomic
+
+<p>
+  <a href="https://github.com/CodeVaultCommunity/PyAtomic">
+    <img align="left" src="./assets/pyatomic-logo.png" alt="PyAtomic logo" width="96" hspace = "16">
+  </a>
+    <b>Architecture Toolkit for Organized, Modular, and Isolated Code.</b> A Python library for structuring codebases around explicit responsibilities, modular boundaries, and reusable architectural building blocks.
+  <br><br>
+  <a href="https://github.com/CodeVaultCommunity/PyAtomic">
+    <img
+      src="https://img.shields.io/badge/View_repository-181717?style=flat-square&logo=github&logoColor=white"
+      alt="View PyAtomic repository"
+    >
+  </a>
+</p>
+
+<br clear="left">
 
 ## What I work on
 

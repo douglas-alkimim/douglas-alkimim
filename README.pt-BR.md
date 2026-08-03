@@ -26,69 +26,40 @@ Desenvolvo software na interseção entre arquitetura, ciência de dados, agente
 
 ## Projetos open source
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <table>
-        <tr>
-          <td width="120" align="center" valign="top">
-            <a href="https://github.com/CodeVaultCommunity/AlkimimOS">
-              <img
-                src="./assets/alkimimos-logo.png"
-                alt="AlkimimOS logo"
-                width="96"
-              >
-            </a>
-          </td>
-          <td valign="middle">
-            <strong>
-                AlkimimOS
-            </strong>
-            <br><br>
-            Um ecossistema open source para organizar e estender agentes de programação baseados em IA. Ele reúne skills reutilizáveis, regras de governança, contexto de projeto com escopo controlado, workspaces configuráveis e capacidades modulares em um modelo operacional coerente.
-            <br><br>
-            <a href="https://github.com/CodeVaultCommunity/AlkimimOS">
-              <img
-                src="https://img.shields.io/badge/View_repository-181717?style=flat-square&logo=github&logoColor=white"
-                alt="View AlkimimOS repository"
-              >
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td width="50%" valign="top">
-      <table>
-        <tr>
-          <td width="120" align="center" valign="top">
-            <a href="https://github.com/CodeVaultCommunity/PyAtomic">
-              <img
-                src="./assets/pyatomic-logo.png"
-                alt="PyAtomic logo"
-                width="96"
-              >
-            </a>
-          </td>
-          <td valign="middle">
-            <strong>
-                PyAtomic
-            </strong>
-            <br><br>
-            <b>Architecture Toolkit for Organized, Modular, and Isolated Code.</b> Uma biblioteca Python para estruturar bases de código com responsabilidades explícitas, fronteiras modulares e componentes arquiteturais reutilizáveis.
-            <br><br>
-            <a href="https://github.com/CodeVaultCommunity/PyAtomic">
-              <img
-                src="https://img.shields.io/badge/View_repository-181717?style=flat-square&logo=github&logoColor=white"
-                alt="View PyAtomic repository"
-              >
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+### AlkimimOS
 
+<p>
+  <a href="https://github.com/CodeVaultCommunity/AlkimimOS">
+    <img align="left" src="./assets/alkimimos-logo.png" alt="AlkimimOS logo" width="96" hspace="16">
+  </a>
+    Um ecossistema open source para organizar e estender agentes de programação baseados em IA. Ele reúne skills reutilizáveis, regras de governança, contexto de projeto com escopo controlado, workspaces configuráveis e capacidades modulares em um modelo operacional coerente.
+  <br><br>
+  <a href="https://github.com/CodeVaultCommunity/AlkimimOS">
+    <img src="https://img.shields.io/badge/View_repository-181717?style=flat-square&logo=github&logoColor=white" alt="View AlkimimOS repository">
+  </a>
+</p>
+
+<br clear = "left">
+
+---
+
+### PyAtomic
+
+<p>
+  <a href="https://github.com/CodeVaultCommunity/PyAtomic">
+    <img align="left" src="./assets/pyatomic-logo.png" alt="PyAtomic logo" width="96" hspace = "16">
+  </a>
+    <b>Architecture Toolkit for Organized, Modular, and Isolated Code.</b> Uma biblioteca Python para estruturar bases de código com responsabilidades explícitas, fronteiras modulares e componentes arquiteturais reutilizáveis.
+  <br><br>
+  <a href="https://github.com/CodeVaultCommunity/PyAtomic">
+    <img
+      src="https://img.shields.io/badge/View_repository-181717?style=flat-square&logo=github&logoColor=white"
+      alt="View PyAtomic repository"
+    >
+  </a>
+</p>
+
+<br clear = "left">
 
 ## Áreas de atuação
 
