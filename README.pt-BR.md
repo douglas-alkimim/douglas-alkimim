@@ -30,7 +30,7 @@ Desenvolvo software na interseção entre arquitetura, ciência de dados, agente
 
 <p>
   <a href="https://github.com/CodeVaultCommunity/AlkimimOS">
-    <img align="left" src="./assets/alkimimos-logo.png?v=1" alt="AlkimimOS logo" width="128" hspace="16" vspace="16">
+    <img align="left" src="./assets/alkimimos-logo-2.png" alt="AlkimimOS logo" width="128" hspace="16" vspace="16">
   </a>
     Um ecossistema operacional open-source para criar e gerenciar fluxos de trabalho com agentes de IA. O AlkimimOS foi desenvolvido para uso diário interno da <a href = "www.alkimim.com">Alkimim</a>, onde organiza skills reutilizáveis, regras de governança, contextos com escopo controlado, workspaces configuráveis e capacidades modulares. Agora, ele é disponibilizado como open-source para ajudar outros empresários e equipes a estruturarem seus próprios fluxos agênticos com mais consistência, controle e reutilização.
   <br><br>
@@ -47,7 +47,7 @@ Desenvolvo software na interseção entre arquitetura, ciência de dados, agente
 
 <p>
   <a href="https://github.com/CodeVaultCommunity/PyAtomic">
-    <img align="left" src="./assets/pyatomic-logo.png?v=1" alt="PyAtomic logo" width="128" hspace = "16" vspace = "16">
+    <img align="left" src="./assets/pyatomic-logo-2.png" alt="PyAtomic logo" width="128" hspace = "16" vspace = "16">
   </a>
     <b>Architecture Toolkit for Organized, Modular, and Isolated Code.</b> Uma biblioteca Python para estruturar bases de código com responsabilidades explícitas, fronteiras modulares e componentes arquiteturais reutilizáveis.
   <br><br>

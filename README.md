@@ -31,7 +31,7 @@ I build software at the intersection of architecture, data science, AI agents, a
 
 <p>
   <a href="https://github.com/CodeVaultCommunity/AlkimimOS">
-    <img align="left" src="./assets/alkimimos-logo.png?v=1" alt="AlkimimOS logo" width="128" hspace="16" vspace = "16">
+    <img align="left" src="./assets/alkimimos-logo-2.png" alt="AlkimimOS logo" width="128" hspace="16" vspace = "16">
   </a>
     An open-source operating ecosystem for building and managing AI-agent workflows. AlkimimOS was created for daily use inside <a href = "www.alkimim.com">Alkimim</a>, where it organizes reusable skills, governance rules, scoped context, configurable workspaces, and modular capabilities. It is now open-source to help other entrepreneurs and teams structure their own agentic workflows with greater consistency, control, and reuse.
   <br><br>
@@ -48,7 +48,7 @@ I build software at the intersection of architecture, data science, AI agents, a
 
 <p>
   <a href="https://github.com/CodeVaultCommunity/PyAtomic">
-    <img align="left" src="./assets/pyatomic-logo.png?v=1" alt="PyAtomic logo" width="128" hspace = "16"  vspace = "16">
+    <img align="left" src="./assets/pyatomic-logo-2.png" alt="PyAtomic logo" width="128" hspace = "16"  vspace = "16">
   </a>
     <b>Architecture Toolkit for Organized, Modular, and Isolated Code.</b> A Python library for structuring codebases around explicit responsibilities, modular boundaries, and reusable architectural building blocks.
   <br><br>
