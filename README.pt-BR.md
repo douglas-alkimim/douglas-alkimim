@@ -1,6 +1,6 @@
 # Douglas Alkimim
 
-**Líder técnico e Cientista de Dados que desenvolve ferramentas open-source para programadores e soluções para pequenas e médias empresas brasileiras.**
+**Arquiteto de Software, Desenvolvedor, Engenheiro de IA e Cientista de Dados que desenvolve ferramentas open-source para programadores e soluções para pequenas e médias empresas brasileiras.**
 
 Desenvolvo software na interseção entre arquitetura, ciência de dados, agentes de IA e matemática aplicada. Meu foco é transformar complexidade técnica e operacional em sistemas modulares, manuteníveis e úteis.
 
@@ -70,7 +70,7 @@ Desenvolvo software na interseção entre arquitetura, ciência de dados, agente
 
 ## Trajetória
 
-Minha trajetória profissional abrange liderança técnica e ciência de dados, com experiência prática em arquitetura de software, desenvolvimento backend, bancos de dados, automação e sistemas apoiados por IA. Também desenvolvo ferramentas open-source e produtos de software por meio da **Alkimim Cloud & Inovação LTDA**.
+Minha trajetória profissional abrange liderança técnica, engenharia de IA e ciência de dados, com experiência prática em arquitetura de software, desenvolvimento backend, bancos de dados, automação e sistemas apoiados por IA. Também desenvolvo ferramentas open-source e produtos de software por meio da **Alkimim Cloud & Inovação LTDA**.
 
 
 ## Trabalhe comigo

@@ -1,6 +1,6 @@
 # Douglas Alkimim
 
-**Technical Lead and Data Scientist building open-source developer tools and solutions for small and medium-sized businesses in Brazil.**
+**Software Architect, Software Developer, AI Engineer and Data Scientist building open-source developer tools and solutions for small and medium-sized businesses in Brazil.**
 
 I build software at the intersection of architecture, data science, AI agents, and applied mathematics. My focus is turning technical and operational complexity into modular, maintainable, and useful systems.
 
@@ -71,7 +71,7 @@ I build software at the intersection of architecture, data science, AI agents, a
 
 ## Background
 
-My professional background spans technical leadership and data science, with hands-on experience in software architecture, backend development, databases, automation, and AI-enabled systems. I also develop open-source tools and software products through **Alkimim Cloud & Inovação LTDA**.
+My professional background spans technical leadership, AI engineering and data science, with hands-on experience in software architecture, backend development, databases, automation, and AI-enabled systems. I also develop open-source tools and software products through **Alkimim Cloud & Inovação LTDA**.
 
 
 ## Work with me
